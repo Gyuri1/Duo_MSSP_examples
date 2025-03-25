@@ -13,7 +13,8 @@ Please install `requests` and `duo_client` python modules:
 `pip install requests`  
 `pip install duo_clients`  
 
-Please update DuoAccount.py data with Your Duo Account API credentials!
+Please update DuoAccount.py data with Your Duo Accounts API credentials and
+ DuoAccount.py data according to Your Duo Admin API credentials!
 
 More info:
 https://duo.com/docs/accountsapi#using-accounts-api-with-admin-api

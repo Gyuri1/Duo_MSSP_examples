@@ -8,7 +8,7 @@ from DuoAccount import ikey, skey, host
 
 # Ensure a parameter is provided for the new tenant name
 if len(sys.argv) != 2:
-    print("Usage: python DuoServiceHelath.py <tenant_name>")
+    print("Usage: python DuoServiceHealth.py <tenant_name>")
     sys.exit(1)
 
 # Retrieve the new tenant name from command-line argument
